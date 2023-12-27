@@ -19,3 +19,5 @@ const { nombre: nombreCliente, premium } = cliente;
 
 console.log(nombre, precio, disponibilidad);
 console.log(nombreCliente, premium);
+
+// Este codigo sirve mucho para llamadas a API
