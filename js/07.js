@@ -31,7 +31,7 @@ const cliente = {
 const nuevoObjeto2 = { ...producto, ...cliente };
 console.table(nuevoObjeto2);
 
-// Ejemplo valido
+// Ejemplo valido con spread operator
 const nuevoObjeto3 = {
   producto: { ...producto },
   cliente: { ...cliente },
