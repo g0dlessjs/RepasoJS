@@ -67,5 +67,5 @@ const newArray = tecnologias.map(function (tech) {
 
 const newArray2 = tecnologias.filter((tech) => tech !== "React");
 
-console.log(newArray);
-console.log(newArray2);
+// console.log(newArray);
+// console.log(newArray2);
