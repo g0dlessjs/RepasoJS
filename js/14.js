@@ -66,7 +66,7 @@ function functionPassword() {
   }, 75);
 }
 
-// 13.6 Eventos del DOM - Submit
+// 13.6 Eventos del DOM - Submit.
 
 const fomrulario = document.querySelector("#formulario");
 fomrulario.addEventListener("submit", (e) => {
